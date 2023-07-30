@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+
 🧿"Hello, I am Ferhat.<br>✨I am a React Frontend developer. <br>🎗I am always open to learning and consider myself a <br>    lifelong student.<br>🎁I am someone who constantly improves<br>    and enjoys reinforcing what I have learned. <br>📨   You can reach me at this address 👌feerciyes@gmail.com
 
 
