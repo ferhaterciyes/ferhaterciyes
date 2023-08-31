@@ -1,7 +1,4 @@
 # Merhaba 👋, Ben Ferhat!
-
-![Header]([https://raw.githubusercontent.com/ferhaterciyes/ferhaterciyes/main/assets/header.png](https://unsplash.com/photos/LJ9KY8pIH3E))
-
 ## 🚀 Hakkımda
 
 Ben Ferhat, React Frontend geliştiricisiyim. Öğrenmeye her zaman açığım ve kendimi ömür boyu bir öğrenci olarak görüyorum. Sürekli olarak kendimi geliştirmekten keyif alıyorum ve öğrendiklerimi pekiştirmekten hoşlanıyorum. 
