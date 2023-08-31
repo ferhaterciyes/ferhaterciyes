@@ -1,6 +1,6 @@
 # Merhaba 👋, Ben Ferhat!
 
-![Header][(https://raw.githubusercontent.com/ferhaterciyes/ferhaterciyes/main/assets/header.png](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80))
+![Header](https://raw.githubusercontent.com/ferhaterciyes/ferhaterciyes/main/assets/header.png)
 
 ## 🚀 Hakkımda
 
@@ -33,3 +33,4 @@ Ben Ferhat, React Frontend geliştiricisiyim. Öğrenmeye her zaman açığım v
 [![Ziyaretçi Sayısı](https://visitcount.itsvg.in/api?id=ferhaterciyes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- GPRM ( https://gprm.itsvg.in ) ile oluşturulmuştur -->
+
