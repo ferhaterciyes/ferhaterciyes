@@ -1,7 +1,8 @@
 # Merhabalar 👋, Ben Ferhat!
 ## 🚀 Hakkımda
 
-Ben Ferhat, React Frontend geliştiricisiyim. Öğrenmeye her zaman açığım ve kendimi ömür boyu bir öğrenci olarak görüyorum. Sürekli olarak kendimi geliştirmekten keyif alıyorum ve öğrendiklerimi pekiştirmekten hoşlanıyorum. 
+ Merhabalar ben Ferhat
+  React Frontend geliştiricisiyim. Öğrenmeye her zaman açığım ve kendimi ömür boyu bir öğrenci olarak görüyorum. Sürekli olarak kendimi geliştirmekten keyif alıyorum ve öğrendiklerimi pekiştirmekten hoşlanıyorum. 
 
 📫 Benimle iletişime geçmek için: feerciyes@gmail.com
 
