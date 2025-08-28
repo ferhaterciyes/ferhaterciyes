@@ -58,3 +58,7 @@ Developing interactive, responsive modules for **web & mobile**, enhancing digit
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 
 ---
+
+## 👀 Visitor Count  
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=ferhaterciyes&icon=2&color=6)
