@@ -61,4 +61,4 @@ Developing interactive, responsive modules for **web & mobile**, enhancing digit
 
 ## 👀 Visitor Count  
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ferhaterciyes&icon=2&color=6)
+![Visitor Count](https://visitcount.itsvg.in/api?id=ferhaterciyes&label=Profile%20Views&color=6&icon=2&pretty=true)
