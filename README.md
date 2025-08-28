@@ -1,33 +1,60 @@
-# Hello 👋, I'm Ferhat!
+# 👋 Hey, I'm Ferhat Erciyes  
 
-## 🚀 About Me
-
-Hello, I'm Ferhat, a passionate React Frontend Developer. I am constantly learning and consider myself a lifelong student. I enjoy improving my skills and reinforcing what I learn through practice and development.
-
-📫 Feel free to reach out: feerciyes@gmail.com
-
-## 🌐 Social Media
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frhteeercys_123) 
-
-## 💻 Technologies I Use
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferhaterciyes&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ferhaterciyes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## ✍️ Note
-
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 **Front-End Developer (React & React Native)**  
+💡 Building modern, high-performance web & mobile applications  
+📍 Istanbul, Turkey  
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ferhaterciyes&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧑‍💻 About Me  
+I'm a passionate **React Frontend Developer** with experience in both **web** and **mobile** development.  
+I specialize in creating seamless, scalable, and responsive interfaces, often transforming **Figma designs** into fully functional apps.  
 
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+Beyond traditional frontend work, I also develop **IoT-driven solutions** with real-time data processing.  
+Currently working at **TAK EduTech**, building interactive e-learning modules with **React, React Native, and TypeScript**.  
+
+---
+
+## 🔧 Tech Stack  
+
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, React Native, Redux  
+- **Styling:** Tailwind CSS, Bootstrap, CSS3, HTML5  
+- **Tools & Platforms:** Git, GitHub, ClickUp, Jira, Trello, Firebase  
+- **Other Skills:** REST APIs, Socket.io (real-time), React Hook Form, Zod  
+- **Design:** Figma → Pixel-perfect implementation  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛰️ **IoT Buggy Tracking App**  
+Real-time location tracking for hotel & resort buggies using **React Native + Socket.io**.  
+🔹 Features: Live GPS updates, task assignment, and cross-platform sync.  
+
+### 📚 **E-Learning Platform (TAK EduTech)**  
+Developing interactive, responsive modules for **web & mobile**, enhancing digital education experiences.  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferhaterciyes&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhaterciyes&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferhaterciyes)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?logo=github&logoColor=white)](https://github.com/ferhaterciyes)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frhteeercys_123)  
+
+📫 Reach me at: **feerciyes@gmail.com**
+
+---
+
+## ✍️ Quote I Believe In  
+
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
